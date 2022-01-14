@@ -190,7 +190,6 @@ def raise_two(n):
     return n**2
 print(raise_two(7))
 
-print(2**49)
 
 
 
